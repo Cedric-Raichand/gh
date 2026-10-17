@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { View, Text, StyleSheet, Button } from 'react-native';
 
@@ -37,7 +36,7 @@ const styles = StyleSheet.create({
   },
 
   description: {
-    fontSize: 14,
+    fontSize: 15,
     color: '#333333',
     marginBottom: 20,
     textAlign: 'center',
