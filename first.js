@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
   description: {
     fontSize: 15,
     color: '#333333',
-    marginBottom: 25,
+    marginBottom: 30,
     textAlign: 'center',
   },
 });
